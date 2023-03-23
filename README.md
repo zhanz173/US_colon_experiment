@@ -1,1 +1,1 @@
-# US_colon_experiment
+# Source code for colon ultrasound 
